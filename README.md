@@ -1,6 +1,6 @@
 # shopping_list
 
-A new Flutter project.
+This project is a shopping list application that utilizes Firebase as its backend to store and sync data in real-time. The application allows users to create and delete shopping items seamlessly, ensuring a synchronized experience across multiple devices.
 
 ## Getting Started
 
